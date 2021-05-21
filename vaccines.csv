@@ -1,0 +1,34 @@
+,country,total_vaccinations,vaccines,Region,Population,GDP,Urban_population,Education
+0,Argentina,10193368.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",SouthAmerica,44271000,632343000000,91.8,5.3
+1,Bahamas,36000.0,Oxford/AstraZeneca,Caribbean,395000,8854000000,82.9,...
+2,Barbados,121288.0,Oxford/AstraZeneca,Caribbean,286000,4385000000,31.5,6.6
+3,Belize,53496.0,Oxford/AstraZeneca,CentralAmerica,375000,1721000000,44.0,6.4
+4,Bolivia,1194572.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",SouthAmerica,11052000,32998000000,68.5,7.3
+5,Brazil,54332240.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",SouthAmerica,209288000,1772591000000,85.7,6.0
+6,Canada,19088798.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",NorthernAmerica,36624000,1552808000000,81.8,5.3
+7,Chile,16735397.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",SouthAmerica,18055000,240796000000,89.5,4.9
+8,Colombia,7537763.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",SouthAmerica,49066000,292080000000,76.4,4.5
+9,Costa Rica,1251900.0,"Oxford/AstraZeneca, Pfizer/BioNTech",CentralAmerica,4906000,52958000000,76.8,7.2
+10,Cuba,70000.0,Abdala,Caribbean,11485000,87206000000,77.1,...
+11,Dominica,33037.0,Oxford/AstraZeneca,Caribbean,74000,512000000,69.5,-99
+12,Dominican Republic,3119820.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",Caribbean,10767000,67103000000,79.0,...
+13,Ecuador,1560453.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",SouthAmerica,16625000,100177000000,63.7,5.0
+14,El Salvador,1451933.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",CentralAmerica,6378000,25850000000,66.7,3.5
+15,Grenada,19519.0,Oxford/AstraZeneca,Caribbean,108000,954000000,35.6,...
+16,Guatemala,293643.0,"Moderna, Oxford/AstraZeneca",CentralAmerica,16914000,63794000000,51.6,3.0
+17,Guyana,153494.0,"Oxford/AstraZeneca, Sputnik V",SouthAmerica,778000,3282000000,28.6,3.2
+18,Honduras,114225.0,"Moderna, Oxford/AstraZeneca",CentralAmerica,9265000,20365000000,54.7,5.9
+19,Jamaica,135473.0,Oxford/AstraZeneca,Caribbean,2890000,14262000000,54.8,5.5
+20,Mexico,23301884.0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",CentralAmerica,129163000,1140724000000,79.2,5.3
+21,Nicaragua,166350.0,"Oxford/AstraZeneca, Sputnik V",CentralAmerica,6218000,12693000000,58.8,...
+22,Panama,844078.0,"Oxford/AstraZeneca, Pfizer/BioNTech",CentralAmerica,4099000,52132000000,66.6,3.2
+23,Paraguay,240584.0,Sputnik V,SouthAmerica,6811000,27714000000,59.7,5.0
+24,Peru,2623110.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",SouthAmerica,32166000,190428000000,78.6,4.0
+25,Saint Kitts and Nevis,15567.0,Oxford/AstraZeneca,Caribbean,55000,876000000,32.0,2.8
+26,Saint Lucia,26609.0,Oxford/AstraZeneca,Caribbean,179000,1450000000,18.5,4.9
+27,Saint Vincent and the Grenadines,16726.0,Oxford/AstraZeneca,Caribbean,110000,738000000,50.6,...
+28,Suriname,54162.0,Oxford/AstraZeneca,SouthAmerica,563000,4879000000,66.0,-99
+29,Trinidad and Tobago,62985.0,Oxford/AstraZeneca,Caribbean,1369000,25927000000,8.4,...
+30,United States,275535207.0,"Johnson&Johnson, Moderna, Pfizer/BioNTech",NorthernAmerica,324460000,18036648000000,81.6,5.4
+31,Uruguay,2399304.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",SouthAmerica,3457000,53442000000,95.3,4.4
+32,Venezuela,250000.0,Sputnik V,SouthAmerica,31977000,344331000000,89.0,...
